@@ -1,4 +1,5 @@
 # New Project
 
-This Project ws created from local system.
+This Project is created from local system.
+It is look like airbnb website. Where we can book hotels and resorts.
 Created by Chaman Kumar.
